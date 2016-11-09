@@ -1,0 +1,17 @@
+* Struktur
+** includes: bei uns v.a. stdio.h
+** globale Variablen, Funktionen
+** main
+   ... erste Funktion, die bei Programmstart aufgerufen wird
+*** Struktur der main:
+**** Deklaration lokaler Variablen
+**** Statements
+**** return 0;
+
+* Kontrollstrukturen / std-Funktionen
+** printf/scanf
+   Varyadisch: beliebig viele Parameter
+   Format strings!
+** for
+** while
+** if-then-else
